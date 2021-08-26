@@ -1,1 +1,1 @@
-# Yarn-Factory-Managment-System
+# Yarn-Factory-Management-System
