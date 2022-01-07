@@ -479,7 +479,7 @@ class stock extends owner{
 			Iterator<String> iter = list.iterator();
 			
 			while(iter.hasNext()) {
-				//String str =iter.next();
+				String str =iter.next();
 				if(remove>=0&&remove<=100) {
 					iter.remove();
 					System.out.println("STOCK AFTER REMOVING:");
